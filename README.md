@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+I am a Quality Assurance Engineer with an experience of over 6 years. I have hands on experience working with test automation frameworks and technologies. I have extensively worked on Selenium, TestNG, Cucumber, Appium, Maven etc.
 
 ---
 
@@ -42,8 +42,3 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 GPA 8.75
 
 ---
-
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
