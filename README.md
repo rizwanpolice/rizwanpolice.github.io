@@ -57,7 +57,7 @@ My responsibilities:
 • Perform product showcases and Demos to all the stakeholders
 
 ### **TEST ANALYST**
-### TCS - QANTAS AIRWAYS - SYDNEY, AUSTRALIA (June 2017 - June 2021)
+### TCS - QANTAS AIRWAYS - SYDNEY, AUSTRALIA (June 2017 - March 2020)
 
 I work as a Test Analyst for migrating software applications to Amazon Cloud. I am involved right from the test planning stage to the successful implementation of the Software into live environment. I am responsible for creation of regression test automation scripts for continuous delivery. I carry out performance testing to identify the right instance type and size on the new Amazon Web Services infrastructure. Additionally, I perform cross browser testing and accessibility to check the websites render properly to all kinds of Audience.
 
