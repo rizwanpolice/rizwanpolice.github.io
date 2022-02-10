@@ -22,7 +22,7 @@ Maven, Cucumber BDD, Bamboo, CICD, Rest-Assured, Postman, SOAPUI.
 ## Experience
 
 ### **QUALITY ASSURANCE ENGINEER**
-### AMAZON INDIA
+### AMAZON INDIA (July 2021 - Present)
 
 Lead two people in my team and facilitate them technically and functionally throughout the
 project delivery.
@@ -40,7 +40,7 @@ intervention in the deployment process).
 to ensure the application is developed as per the requirement.
 
 ### **TEST ANALYST**
-### TCS - CHENNAI
+### TCS - CHENNAI (April 2020 - June 2021)
 
 I work as a Test Analyst taking care of end to end testing right from the beginning of requirements gathering to the software going live in production. I carry out functional testing, regression testing, performance testing, cross browser testing and accessibility testing as part of my job duties.
 
@@ -57,7 +57,7 @@ My responsibilities:
 • Perform product showcases and Demos to all the stakeholders
 
 ### **TEST ANALYST**
-### TCS - QANTAS AIRWAYS - SYDNEY, AUSTRALIA
+### TCS - QANTAS AIRWAYS - SYDNEY, AUSTRALIA (June 2017 - June 2021)
 
 I work as a Test Analyst for migrating software applications to Amazon Cloud. I am involved right from the test planning stage to the successful implementation of the Software into live environment. I am responsible for creation of regression test automation scripts for continuous delivery. I carry out performance testing to identify the right instance type and size on the new Amazon Web Services infrastructure. Additionally, I perform cross browser testing and accessibility to check the websites render properly to all kinds of Audience.
 
