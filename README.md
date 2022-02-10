@@ -7,10 +7,14 @@ I am a Quality Assurance Engineer with an experience of over 6 years. I have han
 ## Technical Competencies
 ● Testing: Web Testing, Mobile Automation, API Testing, Mobile Testing, Database Testing,
 Performance Testing, Cross Browser Testing, Accessibility Testing.
+
 ● Test Automation: Selenium, Core-Java, TestNG, Cypress, BitBucket, Eclipse-IDE, Intelli J,
 Maven, Cucumber BDD, Bamboo, CICD, Rest-Assured, Postman, SOAPUI.
+
 ● Non-Functional: Jmeter, Browser Stack, Perfecto Mobile, NVDA, JAWS
+
 ● Test Management: JIRA, Sharepoint
+
 ● Database: Oracle, MySQL
 
 ---
