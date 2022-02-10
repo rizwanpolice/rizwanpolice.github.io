@@ -4,15 +4,14 @@ I am a Quality Assurance Engineer with an experience of over 6 years. I have han
 
 ---
 
-## Skills
-
-<p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-</p>
+## Technical Competencies
+● Testing: Web Testing, Mobile Automation, API Testing, Mobile Testing, Database Testing,
+Performance Testing, Cross Browser Testing, Accessibility Testing.
+● Test Automation: Selenium, Core-Java, TestNG, Cypress, BitBucket, Eclipse-IDE, Intelli J,
+Maven, Cucumber BDD, Bamboo, CICD, Rest-Assured, Postman, SOAPUI.
+● Non-Functional: Jmeter, Browser Stack, Perfecto Mobile, NVDA, JAWS
+● Test Management: JIRA, Sharepoint
+● Database: Oracle, MySQL
 
 ---
 
@@ -69,16 +68,8 @@ My key responsibilities:
 • Validation of responsive web design of the website using Perfecto Mobile tool.
 • Effective use of JIRA, confluence and sharepoint to document the test cases and test artefacts.
 • Effectively coordinate with business stakeholders and developers to ensure the application is developed as per the requirement.
----
 
-## Technical Competencies
-● Testing: Web Testing, Mobile Automation, API Testing, Mobile Testing, Database Testing,
-Performance Testing, Cross Browser Testing, Accessibility Testing.
-● Test Automation: Selenium, Core-Java, TestNG, Cypress, BitBucket, Eclipse-IDE, Intelli J,
-Maven, Cucumber BDD, Bamboo, CICD, Rest-Assured, Postman, SOAPUI.
-● Non-Functional: Jmeter, Browser Stack, Perfecto Mobile, NVDA, JAWS
-● Test Management: JIRA, Sharepoint
-● Database: Oracle, MySQL
+---
 
 ## Education
 
