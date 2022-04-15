@@ -79,6 +79,6 @@ My key responsibilities:
 
 ### **RAJIV GANDHI UNIVERSITY OF KNOWLEDGE TECHNOLOGIES**
 ### BTech ECE (2011- 2015)
-GPA 8.75
+GPA 9.31
 
 ---
