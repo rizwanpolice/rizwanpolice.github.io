@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Quality Assurance Engineer with an experience of over 6 years. I have hands on experience working with test automation frameworks and technologies. I have extensively worked on Selenium, TestNG, Cucumber, Appium, Maven etc.
+I am a Quality Assurance Engineer with an experience of over 9 years. I have hands on experience working with test automation frameworks and technologies. I have extensively worked on Selenium, TestNG, Cucumber, Appium, Maven etc.
 
 ---
 
