@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Quality Assurance Engineer with an experience of over 9 years. I have hands on experience working with test automation frameworks and technologies. I have extensively worked on Selenium, TestNG, Cucumber, Appium, Maven etc.
+I am a Quality Assurance Engineer with an experience of over 9 years. I have hands on experience working with test automation frameworks and technologies. I have extensively worked on Selenium, Appium, TestNG, Cucumber, Appium, Maven etc.
 
 ---
 
@@ -21,8 +21,32 @@ Maven, Cucumber BDD, Bamboo, CICD, Rest-Assured, Postman, SOAPUI.
 
 ## Experience
 
+### **Software Development Engineer in Test (Grade 8)**
+### CISCO (July 2023 - Present)
+● Automated tests in hybrid mobile framework and thereby achieved quality releases of the mobile app through regression.
+● Execution of automated tests using Jenkins and Sauce labs combination in CICD
+● Majorly used tools like Appium, Selenium, XCUITest and Java for Automation
+● Worked on Accessibility testing on the mobile apps in both iOS and Android
+● Work closely with dev teams to review and provide feedback on the software quality
+● Created cypress automation framework from scratch to automate the web version of timeclock functionality
+● Worked as a core team member to review code and maintain automation framework enabling other teams to adopt the automation framework
+● Provide effective documentation of test plans and procedures to ensure that they are used by other testers or stakeholders.
+
+
+### **SDET 3**
+### WALMART GLOBAL TECH (March 2022 - June 2023)
+● Automated tests in hybrid mobile framework and thereby achieved quality releases of the mobile app through regression.
+● Execution of automated tests using Jenkins and Sauce labs combination in CICD
+● Majorly used tools like Appium, Selenium, XCUITest and Java for Automation
+● Worked on Accessibility testing on the mobile apps in both iOS and Android
+● Work closely with dev teams to review and provide feedback on the software quality
+● Created cypress automation framework from scratch to automate the web version of timeclock functionality
+● Worked as a core team member to review code and maintain automation framework enabling other teams to adopt the automation framework
+● Provide effective documentation of test plans and procedures to ensure that they are used by other testers or stakeholders.
+
+
 ### **QUALITY ASSURANCE ENGINEER**
-### AMAZON INDIA (July 2021 - Present)
+### AMAZON INDIA (July 2021 - March 2022)
 
 Lead two people in my team and facilitate them technically and functionally throughout the
 project delivery.
